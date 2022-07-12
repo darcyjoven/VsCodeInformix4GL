@@ -1,0 +1,1 @@
+https://github.com/sxei/vscode-plugin-demo.git
